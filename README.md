@@ -1,6 +1,6 @@
 # Optical Flow Project
 
-This project implements and demonstrates optical flow algorithms, including the Lucas-Kanade method, for motion detection and tracking in video sequences. The code is designed for educational purposes and is compatible with Google Colab for easy experimentation and visualization.
+This project implements and demonstrates optical flow algorithms, including the Lucas-Kanade method, to detect violence in video sequences. The code is compatible with Google Colab for easy experimentation and visualization.
 
 ## Features
 
