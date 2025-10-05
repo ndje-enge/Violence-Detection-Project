@@ -27,4 +27,4 @@ For a detailed explanation of the methods, results, and analysis, please refer t
 - Louis
 
 ---
-This project was developed as part of an academic assignment.
+This project was developed as part of an academic assignment during Computer Vision classes at Hanyang University.
